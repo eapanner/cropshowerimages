@@ -20,6 +20,6 @@ The usage is:
 	-t textfile.txt -o slideshowname -m mode
 where the mode can be "t" (and only slides of the true crops will be created) or any
 other letter which will result in only slides of the true crops being created. It outputs
-a slide for ech crop, along with the context. 
+a slide for ech crop, along with the metadata. 
 
 
