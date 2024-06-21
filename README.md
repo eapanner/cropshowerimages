@@ -19,7 +19,7 @@ from DBSCAN.
 The usage is:
 	-t textfile.txt -o slideshowname -m mode
 where the mode can be "t" (and only slides of the true crops will be created) or any
-other letter which will result in only slides of the true crops being created. It outputs
+other letter which will result in only slides of the background crops being created. It outputs
 a slide for ech crop, along with the metadata. 
 
 
